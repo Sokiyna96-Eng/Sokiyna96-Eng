@@ -6,7 +6,7 @@ I'm **Sokiyna Naser** — a passionate Data Scientist and Engineer!
 ## 💡 About Me
 - 🎓 Master's in Electrical and Computer Engineering.
 - 🌟 Interning as a Data Scientist at **Nisum Technology**.
-- 🏆 Winner of the **California State University Business Competition** ($10,000 grant).
+- 🏆 Winner of the **California State University Business Competition2023** ($10,000 grant).
 
 ---
 
