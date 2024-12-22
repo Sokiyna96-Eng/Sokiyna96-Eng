@@ -24,6 +24,6 @@ I'm **Sokiyna Naser** — a passionate Data Scientist and Engineer!
 ---
 
 ## 🤝 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/sokiyna-naser/)
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:sokiyna@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/sokiyna-naser-32443520a/)
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:sokiyna.naser@gmail.com)
 
