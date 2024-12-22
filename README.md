@@ -1,16 +1,29 @@
-## Hi there 👋
 
-<!--
-**Sokiyna96-Eng/Sokiyna96-Eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Welcome! 👋 Have a seat, don't be shy 😊
 
-Here are some ideas to get you started:
+I'm **Sokiyna Naser** — a passionate Data Scientist and Engineer!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 About Me
+- 🎓 Master's in Electrical and Computer Engineering.
+- 🌟 Interning as a Data Scientist at **Nisum Technology**.
+- 🏆 Winner of the **California State University Business Competition** ($10,000 grant).
+
+---
+
+## ⚙️ Technical Skills
+- **Languages:** Python, C++, JavaScript
+- **Frameworks:** TensorFlow, Scikit-learn, HuggingFace
+- **Tools:** Git, VS Code, Milvus
+
+---
+
+## 📊 GitHub Stats
+![Sokiyna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sokiyna&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sokiyna&layout=compact&theme=radical)
+
+---
+
+## 🤝 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/sokiyna-naser/)
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:sokiyna@example.com)
+
