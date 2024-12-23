@@ -1,7 +1,10 @@
 
-# Welcome! 👋 Have a seat, don't be shy 😊
+# Welcome to my page! 👋😊
+[![MasterHead](https://www.omadahealth.com/hubfs/QuantifyingBehavior_Header_Animate_080818-1.gif)]
 
 I'm **Sokiyna Naser** — a passionate Data Scientist and Engineer!
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mohdbakr.mohdbakr"/>
 
 ## 💡 About Me
 - 🎓 Master's in Electrical and Computer Engineering.
