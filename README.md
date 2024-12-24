@@ -3,6 +3,7 @@
 
 ### What ever I do here <img src="https://media.tenor.com/EXAMPLE.gif" width="300"/> is for: 
 ![Letitia Wright Science GIF](https://media.tenor.com/EXAMPLE.gif)
+<img src="https://media.tenor.com/EXAMPLE.gif" width="300"/>
 
 I'm **Sokiyna Naser** — a passionate Data Scientist and Engineer!
 
