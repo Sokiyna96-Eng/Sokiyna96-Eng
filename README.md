@@ -1,7 +1,7 @@
 
 # Welcome to my page! 👋😊
 
-
+<img src="https://media.tenor.com/21042031.gif" width="300"/>
 I'm **Sokiyna Naser** — a passionate Data Scientist and Engineer!
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Sokiyna96-Eng.Sokiyna96-Eng"/>
