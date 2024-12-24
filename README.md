@@ -1,6 +1,7 @@
 
 # Welcome to my page! 👋😊
 
+<div class="tenor-gif-embed" data-postid="15806719" data-share-method="host" data-aspect-ratio="2.07792" data-width="100%"><a href="https://tenor.com/view/letitia-wright-science-scientist-stem-woman-gif-15806719">Letitia Wright Science GIF</a>from <a href="https://tenor.com/search/letitia+wright-gifs">Letitia Wright GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 I'm **Sokiyna Naser** — a passionate Data Scientist and Engineer!
 
