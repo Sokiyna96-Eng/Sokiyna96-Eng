@@ -23,7 +23,7 @@ I'm **Sokiyna Naser** — a passionate Data Scientist and Engineer!
 
 <p align="left">
   <a href="https://skillicons.dev#gh-dark-mode-only">
-    <img src="https://skillicons.dev/icons?i=r,py,django,fastapi,postman,tensorflow,pytorch,anaconda,aws,raspberrypi,postgres,sqlite,redis,vscode,docker,powershell,bash,linux,md,html,css,js,bootstrap,git,github,gitlab&theme=light" />
+    <img src="https://skillicons.dev/icons?i=r,py,django,fastapi,postman,tensorflow,pytorch,anaconda,aws,raspberrypi,vscode,docker,powershell,bash,linux,md,html,css,js,bootstrap,git,github,gitlab&theme=light" />
   </a>
 </p>
 
