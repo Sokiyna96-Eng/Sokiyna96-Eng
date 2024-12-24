@@ -1,6 +1,7 @@
 
 # Welcome to my page! 👋😊
 
+### What ever I do here ![Dm4uz3 Foekoe Sticker GIF](https://media.tenor.com/EXAMPLE.gif) is for: 
 ![Letitia Wright Science GIF](https://media.tenor.com/EXAMPLE.gif)
 
 I'm **Sokiyna Naser** — a passionate Data Scientist and Engineer!
