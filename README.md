@@ -17,7 +17,7 @@ I'm **Sokiyna Naser** — a passionate Data Scientist and Engineer!
 
 <p align="left">
   <a href="https://skillicons.dev#gh-light-mode-only">
-    <img src="https://skillicons.dev/icons?i=r,py,django,fastapi,postman,tensorflow,pytorch,anaconda,aws,raspberrypi,postgres,sqlite,redis,vscode,docker,powershell,bash,linux,md,html,css,js,bootstrap,git,github,gitlab," />
+    <img src="https://skillicons.dev/icons?i=r,py,fastapi,postman,tensorflow,pytorch,anaconda,aws,raspberrypi,postgres,vscode,docker,powershell,bash,linux,md,html,css,js,bootstrap,git,github,gitlab," />
   </a>
 </p>
 
@@ -28,10 +28,7 @@ I'm **Sokiyna Naser** — a passionate Data Scientist and Engineer!
 </p>
 
 ![pandas Badge](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=fff&style=flat)
-![Plotly Badge](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=fff&style=flat)
 ![scikit-learn Badge](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=fff&style=flat)
-![SQLAlchemy Badge](https://img.shields.io/badge/SQLAlchemy-D71F00?logo=sqlalchemy&logoColor=fff&style=flat)
-![Neo4J](https://img.shields.io/badge/Neo4j-018bff?style=for-the-badge&logo=neo4j&logoColor=fff&style=flat)
 ![Keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=fff&style=flat)
 
 
